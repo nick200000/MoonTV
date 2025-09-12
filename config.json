@@ -443,6 +443,10 @@
       "api": "https://www.iqiyizyapi.com/api.php/provide/vod",
       "name": "iqiyi资源"
     },
+    "missAV": {
+      "api": "https://py.doube.eu.org/spider?site=Miss",
+      "name": "missAV"
+    },
     "xxibaozyw": {
       "api": "https://www.xxibaozyw.com/api.php/provide/vod",
       "name": "细胞采集黄色"
