@@ -308,7 +308,7 @@
     },
     "fhapi9": {
       "api": "http://fhapi9.com/api.php/provide/vod",
-      "name": "AV-番号资源"
+      "name": "AV-番号资源",
       "detail": "http://fhapi9.com"
     },
     "kxgav": {
